@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "description": "Filmo is a simple application to show movies preview and description",
+    "platforms": ["ios"],
+    "orientation": "portrait"
+  }
+}

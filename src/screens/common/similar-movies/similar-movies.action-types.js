@@ -1,0 +1,11 @@
+const SIMILAR_MOVIES_REQUEST = 'similar-movies/SIMILAR_MOVIES_REQUEST';
+const SIMILAR_MOVIES_RECEIVE = 'similar-movies/SIMILAR_MOVIES_RECEIVE';
+const SIMILAR_MOVIES_FAILURE = 'similar-movies/SIMILAR_MOVIES_FAILURE';
+
+const actionTypes = {
+  SIMILAR_MOVIES_REQUEST,
+  SIMILAR_MOVIES_RECEIVE,
+  SIMILAR_MOVIES_FAILURE,
+};
+
+export default actionTypes;

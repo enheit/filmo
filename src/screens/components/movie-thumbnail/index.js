@@ -1,0 +1,1 @@
+export { default as MovieThumbnail } from './movie-thumbnail';
